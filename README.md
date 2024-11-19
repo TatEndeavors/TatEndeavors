@@ -1,6 +1,6 @@
 # About me
 
-**TatEndeavors/TatEndeavors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**TatEndeavors/TatEndeavors**
 
 
 - 🔭 I’m currently working on developing Standard Operating Procedures, Proposals, and Request for Proposals
