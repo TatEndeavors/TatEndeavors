@@ -1,6 +1,6 @@
 # About me
 
-**TatEndeavors/TatEndeavors**
+**TatEndeavors**
 
 
 - 🔭 I’m currently working on developing Standard Operating Procedures, Proposals, and Request for Proposals
